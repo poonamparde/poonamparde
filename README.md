@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poonamparde&label=Profile%20views&color=0e75b6&style=flat" alt="poonamparde" /> </p>
 
-- 📊 I’m learning **more things about Data analytics**
+- 📊 I’m learning **more things about Data analytics**  
 
 - 📫 How to reach me **poonamparde01@gmail.com**
 
